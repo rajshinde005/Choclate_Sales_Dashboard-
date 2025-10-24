@@ -5,6 +5,7 @@ This project presents a sales dashboard designed using Microsoft Power BI. It vi
 🧰 Tools Used
 Microsoft Power BI
 Excel dataset: chocolate_sales.xlsx
+
 📁 Features Included
 KPI Card for Total Sales
 Line Chart for sales trend over time
@@ -15,6 +16,7 @@ Chocolate Product
 Country
 Sales Person
 Date Range
+
 🧠 Insights
 USA had the highest sales in the filtered period.
 Top-performing salespersons can be easily identified.
